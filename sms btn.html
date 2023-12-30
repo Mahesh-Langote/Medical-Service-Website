@@ -1,0 +1,97 @@
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MedService</title>
+</head>
+<style>
+    * {
+        padding: 0;
+        margin: 0;
+        box-sizing: border-box;
+        color:blue;
+    }
+
+    .home {
+        text-align: end;
+    }
+
+    body {
+
+        font-family: 'Roboto', sans-serif;
+        overflow: hidden;
+    }
+
+    .container {
+        position: relative;
+        height: 100vh;
+        width: 100vw;
+        background: url("css/sms\ btn\ back.jpg") no-repeat;
+        background-size: cover;
+        background-position: 50% 36%;
+        display: flex;
+        flex-direction: column;
+        /* justify-content: center; */
+        align-items: center;
+        /* text-align: center; */
+    }
+
+    .container:before {
+        content: '';
+        position: absolute;
+        top: 0;
+        left: 0;
+
+        width: 100%;
+        height: 100%;
+        /* background-color: rgba(0, 0, 0, 0.7); */
+    }
+
+    .content {
+        position: relative;
+        max-width: 700px;
+        padding: 2rem;
+        z-index: 1;
+        /* border: 10px red ; */
+    }
+
+
+
+    .content p {
+        color: black;
+        font-size: 1.2rem;
+        font-weight: 100;
+
+    }
+</style>
+
+<body>
+
+
+    <div class="container">
+
+        <div class="content">
+            <!-- <p>Home</p> -->
+            <p>Thanks for being awesome! </p>
+
+
+            <p>We have received your message and would like to thank you for writing to us. If your inquiry is urgent,
+                please use the contact number listed below to talk to one of our staff members.
+                Otherwise, we will reply by email as soon as possible.
+            </p>
+            <br> <a class="single" href="tel:+ +917397970934">+917397970934</a><br>
+                 <a class="single" href="tel:+ +917498823484">+917498823484</a><br>
+            <p>Talk to you soon</p>
+            <a href="index.html"><img src="css/sms home btn.png" alt="Home" width="200px"></a>
+
+
+        </div>
+    </div>
+</body>
+
+
+</html>

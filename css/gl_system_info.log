@@ -1,0 +1,354 @@
+2021.06.26 10:45:14
+
+
+#Gallery Lock version :5.1
+
+#Pro? :false
+
+#SD card root :/storage/emulated/0
+
+#SD card paths :
+/storage/emulated/0
+
+#Folder row datas :
+FolderId | FolderName | FolderDesc | FolderFirstImage | FolderStyleType 
+----------------------------------------------------------------------
+1|Personal Photo||null|1
+2|Business||null|2
+3|Vacation||null|3
+
+
+#Media row datas :
+mediaId | fileName | orgFilePath | orgMimeType | orgDateTaken | mediaType | folderId | size | mediaType  
+----------------------------------------------------------------------
+2|sample_1.k|/storage/emulated/0//sample_1.k|image/jpeg||1|2|0|1
+3|sample_2.k|/storage/emulated/0//sample_2.k|image/jpeg||1|3|0|1
+4|IMG-20201025-WA0103.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0103.jpg|image/jpeg|1603639272000|1|1|54714|1
+5|IMG-20201025-WA0102.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0102.jpg|image/jpeg|1603639210000|1|1|104869|1
+6|IMG-20201025-WA0101.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0101.jpg|image/jpeg|1603639097000|1|1|59155|1
+8|IMG-20201025-WA0099.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0099.jpg|image/jpeg|1603638996000|1|1|72826|1
+9|IMG-20201025-WA0098.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0098.jpg|image/jpeg|1603638984000|1|1|120664|1
+11|IMG-20201025-WA0096.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0096.jpg|image/jpeg|1603632738000|1|1|106840|1
+12|IMG-20201025-WA0095.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0095.jpg|image/jpeg|1603632736000|1|1|110753|1
+13|IMG-20201025-WA0094.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0094.jpg|image/jpeg|1603632735000|1|1|108791|1
+14|IMG-20201025-WA0093.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0093.jpg|image/jpeg|1603632734000|1|1|94172|1
+15|IMG-20201025-WA0092.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0092.jpg|image/jpeg|1603632733000|1|1|104229|1
+16|IMG-20201025-WA0091.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0091.jpg|image/jpeg|1603632731000|1|1|91878|1
+17|IMG-20201025-WA0090.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0090.jpg|image/jpeg|1603632730000|1|1|105384|1
+18|IMG-20201025-WA0089.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0089.jpg|image/jpeg|1603632729000|1|1|95713|1
+19|IMG-20201025-WA0088.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0088.jpg|image/jpeg|1603632728000|1|1|97829|1
+20|IMG-20201025-WA0087.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0087.jpg|image/jpeg|1603632727000|1|1|99881|1
+21|IMG-20201025-WA0085.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0085.jpg|image/jpeg|1603632725000|1|1|104801|1
+22|IMG-20201025-WA0084.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0084.jpg|image/jpeg|1603632724000|1|1|110342|1
+23|IMG-20201025-WA0083.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0083.jpg|image/jpeg|1603632723000|1|1|93914|1
+24|IMG-20201025-WA0082.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0082.jpg|image/jpeg|1603632721000|1|1|103271|1
+25|IMG-20201025-WA0074.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0074.jpg|image/jpeg|1603628318000|1|1|79207|1
+26|IMG-20201025-WA0073.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0073.jpg|image/jpeg|1603628285000|1|1|118440|1
+27|IMG-20201025-WA0072.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0072.jpg|image/jpeg|1603628273000|1|1|108709|1
+28|IMG-20201025-WA0071.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0071.jpg|image/jpeg|1603628260000|1|1|99655|1
+29|IMG-20201025-WA0070.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0070.jpg|image/jpeg|1603628247000|1|1|95290|1
+30|IMG-20201025-WA0068.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0068.jpg|image/jpeg|1603628233000|1|1|104123|1
+31|IMG-20201025-WA0069.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0069.jpg|image/jpeg|1603628233000|1|1|92092|1
+32|IMG-20201025-WA0067.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0067.jpg|image/jpeg|1603628226000|1|1|88484|1
+33|IMG-20201025-WA0063.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0063.jpg|image/jpeg|1603627241000|1|1|101643|1
+34|IMG20200314173715.k|/storage/emulated/0/DCIM/Camera/IMG20200314173715.jpg|image/jpeg|1584187631000|1|1|1911885|1
+35|IMG20200314173647.k|/storage/emulated/0/DCIM/Camera/IMG20200314173647.jpg|image/jpeg|1584187591000|1|1|1580064|1
+41|IMG-20201010-WA0103.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201010-WA0103.jpg|image/jpeg|1603648360000|1|1|129066|1
+42|IMG-20201025-WA0109.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0109.jpg|image/jpeg|1603648360000|1|1|109925|1
+43|IMG-20201010-WA0104.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201010-WA0104.jpg|image/jpeg|1603648359000|1|1|144361|1
+44|IMG-20201025-WA0107.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0107.jpg|image/jpeg|1603648359000|1|1|106648|1
+45|IMG-20201025-WA0108.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0108.jpg|image/jpeg|1603648359000|1|1|107721|1
+46|IMG-20201025-WA0075.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0075.jpg|image/jpeg|1603648357000|1|1|107472|1
+48|IMG-20201025-WA0086.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0086.jpg|image/jpeg|1603632726000|1|1|106641|1
+49|IMG-20201025-WA0081.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0081.jpg|image/jpeg|1603631188000|1|1|114972|1
+50|IMG-20201025-WA0080.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0080.jpg|image/jpeg|1603631186000|1|1|123136|1
+51|IMG-20201025-WA0079.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0079.jpg|image/jpeg|1603631185000|1|1|113886|1
+52|IMG-20201025-WA0077.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0077.jpg|image/jpeg|1603631184000|1|1|117185|1
+53|IMG-20201025-WA0078.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0078.jpg|image/jpeg|1603631184000|1|1|120885|1
+54|IMG-20201025-WA0076.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0076.jpg|image/jpeg|1603631182000|1|1|120594|1
+55|IMG-20201025-WA0066.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0066.jpg|image/jpeg|1603627860000|1|1|193079|1
+56|IMG-20201025-WA0065.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0065.jpg|image/jpeg|1603627858000|1|1|263517|1
+59|IMG-20201025-WA0061.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0061.jpg|image/jpeg|1603621692000|1|1|55078|1
+60|IMG-20201025-WA0060.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201025-WA0060.jpg|image/jpeg|1603621691000|1|1|50772|1
+124|IMG-20201023-WA0033.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201023-WA0033.jpg|image/jpeg|1603461271000|1|1|57540|1
+125|IMG-20201023-WA0032.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201023-WA0032.jpg|image/jpeg|1603461263000|1|1|85333|1
+126|IMG-20201023-WA0031.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201023-WA0031.jpg|image/jpeg|1603460639000|1|1|92152|1
+128|IMG-20201023-WA0025.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201023-WA0025.jpg|image/jpeg|1603451612000|1|1|152108|1
+194|IMG-20201018-WA0007.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201018-WA0007.jpg|image/jpeg|1602960744000|1|1|89236|1
+195|IMG-20201018-WA0008.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201018-WA0008.jpg|image/jpeg|1602960744000|1|1|83713|1
+196|IMG-20201018-WA0005.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201018-WA0005.jpg|image/jpeg|1602960743000|1|1|97564|1
+197|IMG-20201018-WA0006.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201018-WA0006.jpg|image/jpeg|1602960743000|1|1|79560|1
+224|IMG-20201016-WA0027.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201016-WA0027.jpg|image/jpeg|1602850978000|1|1|125174|1
+230|IMG-20201016-WA0016.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201016-WA0016.jpg|image/jpeg|1602832757000|1|1|138228|1
+231|IMG_20201016_174449.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG_20201016_174449.jpg|image/jpeg|1602832757000|1|1|535463|1
+232|IMG-20201016-WA0015.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201016-WA0015.jpg|image/jpeg|1602832756000|1|1|137172|1
+233|IMG-20201016-WA0014.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201016-WA0014.jpg|image/jpeg|1602832754000|1|1|175648|1
+236|IMG-20201016-WA0011.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201016-WA0011.jpg|image/jpeg|1602823986000|1|1|98164|1
+237|IMG-20201016-WA0010.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201016-WA0010.jpg|image/jpeg|1602823984000|1|1|97429|1
+238|IMG_20201016_102425.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG_20201016_102425.jpg|image/jpeg|1602823984000|1|1|340688|1
+260|IMG_20201014_182900.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG_20201014_182900.jpg|image/jpeg|1602680176000|1|1|209205|1
+271|IMG-20201013-WA0049.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201013-WA0049.jpg|image/jpeg|1602597150000|1|1|130993|1
+272|IMG-20201013-WA0046.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201013-WA0046.jpg|image/jpeg|1602597144000|1|1|116010|1
+273|IMG-20201013-WA0052.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201013-WA0052.jpg|image/jpeg|1602597144000|1|1|105580|1
+274|IMG-20201013-WA0042.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201013-WA0042.jpg|image/jpeg|1602597141000|1|1|108455|1
+275|IMG-20201013-WA0078.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201013-WA0078.jpg|image/jpeg|1602597141000|1|1|102132|1
+276|IMG-20201013-WA0041.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201013-WA0041.jpg|image/jpeg|1602597116000|1|1|108132|1
+277|IMG-20201013-WA0076.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201013-WA0076.jpg|image/jpeg|1602597114000|1|1|106353|1
+278|IMG-20201013-WA0075.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201013-WA0075.jpg|image/jpeg|1602597104000|1|1|108542|1
+279|IMG_20201015_122307.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG_20201015_122307.jpg|image/jpeg|1602597104000|1|1|520721|1
+280|IMG-20201013-WA0074.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201013-WA0074.jpg|image/jpeg|1602597093000|1|1|112186|1
+281|IMG-20201013-WA0073.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201013-WA0073.jpg|image/jpeg|1602596739000|1|1|101522|1
+282|IMG-20201013-WA0072.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201013-WA0072.jpg|image/jpeg|1602596651000|1|1|119966|1
+283|IMG-20201013-WA0071.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201013-WA0071.jpg|image/jpeg|1602596607000|1|1|110742|1
+284|IMG-20201013-WA0070.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201013-WA0070.jpg|image/jpeg|1602596585000|1|1|110603|1
+285|IMG-20201013-WA0069.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201013-WA0069.jpg|image/jpeg|1602596540000|1|1|119948|1
+286|IMG-20201013-WA0068.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201013-WA0068.jpg|image/jpeg|1602596524000|1|1|115917|1
+287|IMG-20201013-WA0067.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201013-WA0067.jpg|image/jpeg|1602596508000|1|1|106543|1
+288|IMG-20201013-WA0066.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201013-WA0066.jpg|image/jpeg|1602596500000|1|1|99191|1
+289|IMG-20201013-WA0065.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201013-WA0065.jpg|image/jpeg|1602596495000|1|1|160390|1
+290|IMG-20201013-WA0063.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201013-WA0063.jpg|image/jpeg|1602596478000|1|1|127344|1
+291|IMG-20201013-WA0061.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201013-WA0061.jpg|image/jpeg|1602596467000|1|1|140011|1
+292|IMG-20201013-WA0060.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201013-WA0060.jpg|image/jpeg|1602596463000|1|1|115706|1
+293|IMG-20201013-WA0059.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201013-WA0059.jpg|image/jpeg|1602596457000|1|1|84771|1
+294|IMG-20201013-WA0058.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201013-WA0058.jpg|image/jpeg|1602596453000|1|1|110270|1
+295|IMG-20201013-WA0057.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201013-WA0057.jpg|image/jpeg|1602596431000|1|1|121951|1
+296|IMG-20201013-WA0056.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201013-WA0056.jpg|image/jpeg|1602596427000|1|1|101088|1
+297|IMG-20201013-WA0055.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201013-WA0055.jpg|image/jpeg|1602596424000|1|1|94258|1
+298|IMG-20201013-WA0054.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201013-WA0054.jpg|image/jpeg|1602596420000|1|1|121208|1
+299|IMG-20201013-WA0053.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201013-WA0053.jpg|image/jpeg|1602596196000|1|1|98351|1
+300|IMG-20201013-WA0051.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201013-WA0051.jpg|image/jpeg|1602596178000|1|1|117222|1
+301|IMG-20201013-WA0050.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201013-WA0050.jpg|image/jpeg|1602596162000|1|1|124087|1
+302|IMG-20201013-WA0048.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201013-WA0048.jpg|image/jpeg|1602596030000|1|1|103918|1
+303|IMG-20201013-WA0047.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201013-WA0047.jpg|image/jpeg|1602595972000|1|1|106287|1
+304|IMG-20201013-WA0045.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201013-WA0045.jpg|image/jpeg|1602595935000|1|1|111236|1
+305|IMG-20201013-WA0044.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201013-WA0044.jpg|image/jpeg|1602595929000|1|1|104556|1
+306|IMG-20201013-WA0043.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201013-WA0043.jpg|image/jpeg|1602595821000|1|1|111690|1
+312|IMG-20201012-WA0012.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201012-WA0012.jpg|image/jpeg|1602476023000|1|1|68447|1
+313|IMG-20201012-WA0011.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201012-WA0011.jpg|image/jpeg|1602475997000|1|1|95393|1
+314|IMG-20201010-WA0074.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201010-WA0074.jpg|image/jpeg|1602321039000|1|1|138308|1
+315|IMG-20201009-WA0021.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201009-WA0021.jpg|image/jpeg|1602239610000|1|1|163478|1
+316|IMG-20201009-WA0019.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201009-WA0019.jpg|image/jpeg|1602239408000|1|1|166181|1
+317|IMG-20200611-WA0024.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200611-WA0024.jpg|image/jpeg|1601213031000|1|1|43132|1
+318|IMG-20200611-WA0017.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200611-WA0017.jpg|image/jpeg|1601213030000|1|1|41174|1
+319|IMG-20200611-WA0018.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200611-WA0018.jpg|image/jpeg|1601213028000|1|1|65729|1
+320|IMG-20200611-WA0015.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200611-WA0015.jpg|image/jpeg|1601213026000|1|1|44953|1
+321|IMG-20200611-WA0026.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200611-WA0026.jpg|image/jpeg|1601213025000|1|1|39839|1
+322|IMG-20200611-WA0030.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200611-WA0030.jpg|image/jpeg|1601213025000|1|1|36207|1
+323|IMG-20200611-WA0019.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200611-WA0019.jpg|image/jpeg|1601213024000|1|1|45433|1
+324|IMG-20200611-WA0022.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200611-WA0022.jpg|image/jpeg|1601213023000|1|1|41350|1
+330|IMG-20200804-WA0026.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200804-WA0026.jpg|image/jpeg|1596514701000|1|1|43950|1
+331|IMG-20200804-WA0025.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200804-WA0025.jpg|image/jpeg|1596514700000|1|1|44363|1
+332|IMG-20200804-WA0023.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200804-WA0023.jpg|image/jpeg|1596514699000|1|1|36522|1
+333|IMG-20200804-WA0024.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200804-WA0024.jpg|image/jpeg|1596514699000|1|1|35742|1
+334|IMG-20200804-WA0022.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200804-WA0022.jpg|image/jpeg|1596514698000|1|1|46883|1
+335|IMG-20200804-WA0021.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200804-WA0021.jpg|image/jpeg|1596514697000|1|1|44117|1
+336|IMG-20200804-WA0019.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200804-WA0019.jpg|image/jpeg|1596514696000|1|1|40682|1
+337|IMG-20200804-WA0020.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200804-WA0020.jpg|image/jpeg|1596514696000|1|1|42128|1
+338|IMG-20200804-WA0018.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200804-WA0018.jpg|image/jpeg|1596514695000|1|1|48803|1
+339|IMG-20200804-WA0017.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200804-WA0017.jpg|image/jpeg|1596514694000|1|1|36087|1
+340|IMG-20200804-WA0016.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200804-WA0016.jpg|image/jpeg|1596514693000|1|1|44052|1
+341|IMG-20200804-WA0015.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200804-WA0015.jpg|image/jpeg|1596514692000|1|1|49577|1
+342|IMG-20200804-WA0014.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200804-WA0014.jpg|image/jpeg|1596514691000|1|1|45414|1
+343|IMG-20200804-WA0013.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200804-WA0013.jpg|image/jpeg|1596514690000|1|1|49308|1
+344|IMG-20200804-WA0012.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200804-WA0012.jpg|image/jpeg|1596514689000|1|1|40253|1
+345|IMG-20200804-WA0011.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200804-WA0011.jpg|image/jpeg|1596514668000|1|1|48107|1
+346|IMG-20200804-WA0010.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200804-WA0010.jpg|image/jpeg|1596514667000|1|1|30041|1
+347|IMG-20200804-WA0009.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200804-WA0009.jpg|image/jpeg|1596514657000|1|1|39393|1
+348|IMG-20200803-WA0008.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200803-WA0008.jpg|image/jpeg|1596417506000|1|1|109709|1
+349|IMG-20200611-WA0028.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200611-WA0028.jpg|image/jpeg|1593221879000|1|1|45813|1
+350|IMG-20200617-WA0051.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200617-WA0051.jpg|image/jpeg|1592400264000|1|1|65800|1
+351|IMG-20200617-WA0052.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200617-WA0052.jpg|image/jpeg|1592400264000|1|1|65194|1
+352|IMG-20200617-WA0050.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200617-WA0050.jpg|image/jpeg|1592400263000|1|1|66951|1
+353|IMG-20200617-WA0049.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200617-WA0049.jpg|image/jpeg|1592400262000|1|1|45256|1
+354|IMG-20200617-WA0047.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200617-WA0047.jpg|image/jpeg|1592400261000|1|1|65561|1
+355|IMG-20200617-WA0048.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200617-WA0048.jpg|image/jpeg|1592400261000|1|1|47170|1
+356|IMG-20200617-WA0046.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200617-WA0046.jpg|image/jpeg|1592400260000|1|1|27756|1
+357|IMG-20200617-WA0044.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200617-WA0044.jpg|image/jpeg|1592400259000|1|1|47115|1
+358|IMG-20200617-WA0045.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200617-WA0045.jpg|image/jpeg|1592400259000|1|1|56288|1
+359|IMG-20200617-WA0043.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200617-WA0043.jpg|image/jpeg|1592400256000|1|1|42968|1
+360|IMG-20200617-WA0041.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200617-WA0041.jpg|image/jpeg|1592400255000|1|1|55059|1
+361|IMG-20200617-WA0042.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200617-WA0042.jpg|image/jpeg|1592400255000|1|1|49796|1
+362|IMG-20200617-WA0039.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200617-WA0039.jpg|image/jpeg|1592400254000|1|1|53435|1
+363|IMG-20200617-WA0040.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200617-WA0040.jpg|image/jpeg|1592400254000|1|1|45777|1
+364|IMG-20200617-WA0038.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200617-WA0038.jpg|image/jpeg|1592400253000|1|1|53760|1
+365|IMG-20200617-WA0037.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200617-WA0037.jpg|image/jpeg|1592400250000|1|1|46381|1
+366|IMG-20200617-WA0035.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200617-WA0035.jpg|image/jpeg|1592400249000|1|1|39026|1
+367|IMG-20200617-WA0036.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200617-WA0036.jpg|image/jpeg|1592400249000|1|1|55879|1
+368|IMG-20200615-WA0022.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200615-WA0022.jpg|image/jpeg|1592203052000|1|1|63065|1
+369|IMG-20200611-WA0029.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200611-WA0029.jpg|image/jpeg|1591847689000|1|1|45523|1
+370|IMG-20200611-WA0027.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200611-WA0027.jpg|image/jpeg|1591847687000|1|1|42716|1
+371|IMG-20200611-WA0025.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200611-WA0025.jpg|image/jpeg|1591847685000|1|1|48533|1
+372|IMG-20200611-WA0023.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200611-WA0023.jpg|image/jpeg|1591847684000|1|1|47834|1
+373|IMG-20200611-WA0021.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200611-WA0021.jpg|image/jpeg|1591847682000|1|1|45959|1
+374|IMG-20200611-WA0020.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200611-WA0020.jpg|image/jpeg|1591847681000|1|1|53491|1
+375|IMG-20200611-WA0016.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200611-WA0016.jpg|image/jpeg|1591847676000|1|1|40178|1
+376|IMG-20200611-WA0014.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200611-WA0014.jpg|image/jpeg|1591847674000|1|1|41704|1
+377|IMG_20200531_130812.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG_20200531_130812.jpg|image/jpeg|1590910259000|1|1|196247|1
+378|IMG-20200327-WA0155.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200327-WA0155.jpg|image/jpeg|1585294209000|1|1|111157|1
+379|IMG-20200327-WA0154.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200327-WA0154.jpg|image/jpeg|1585294208000|1|1|94853|1
+380|IMG-20200325-WA0052.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200325-WA0052.jpg|image/jpeg|1585287631000|1|1|81860|1
+381|IMG-20200327-WA0043.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200327-WA0043.jpg|image/jpeg|1585273862000|1|1|77889|1
+382|IMG-20200327-WA0039.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200327-WA0039.jpg|image/jpeg|1585273859000|1|1|99913|1
+383|IMG-20200327-WA0038.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200327-WA0038.jpg|image/jpeg|1585273858000|1|1|116806|1
+384|IMG-20200327-WA0037.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200327-WA0037.jpg|image/jpeg|1585273857000|1|1|62771|1
+385|IMG-20200327-WA0035.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200327-WA0035.jpg|image/jpeg|1585273855000|1|1|76386|1
+386|IMG-20200327-WA0033.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200327-WA0033.jpg|image/jpeg|1585273854000|1|1|68596|1
+387|IMG-20200327-WA0030.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200327-WA0030.jpg|image/jpeg|1585273852000|1|1|130327|1
+388|IMG-20200327-WA0029.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200327-WA0029.jpg|image/jpeg|1585273850000|1|1|66833|1
+389|IMG-20200327-WA0027.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200327-WA0027.jpg|image/jpeg|1585273849000|1|1|65593|1
+390|IMG-20200327-WA0023.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200327-WA0023.jpg|image/jpeg|1585273846000|1|1|69981|1
+391|IMG-20200327-WA0022.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200327-WA0022.jpg|image/jpeg|1585273845000|1|1|78462|1
+392|IMG-20200327-WA0021.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200327-WA0021.jpg|image/jpeg|1585273844000|1|1|122814|1
+393|IMG-20200327-WA0020.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200327-WA0020.jpg|image/jpeg|1585273843000|1|1|66683|1
+394|IMG-20200327-WA0017.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200327-WA0017.jpg|image/jpeg|1585273841000|1|1|67036|1
+395|IMG-20200327-WA0006.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200327-WA0006.jpg|image/jpeg|1585266152000|1|1|80566|1
+396|IMG-20200325-WA0058.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200325-WA0058.jpg|image/jpeg|1585123246000|1|1|86969|1
+397|IMG-20200325-WA0059.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200325-WA0059.jpg|image/jpeg|1585123246000|1|1|84229|1
+398|IMG-20200325-WA0057.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200325-WA0057.jpg|image/jpeg|1585123245000|1|1|84993|1
+399|IMG-20200325-WA0054.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200325-WA0054.jpg|image/jpeg|1585123244000|1|1|87980|1
+400|IMG-20200325-WA0055.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200325-WA0055.jpg|image/jpeg|1585123244000|1|1|85028|1
+401|IMG-20200325-WA0053.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200325-WA0053.jpg|image/jpeg|1585123243000|1|1|78244|1
+402|IMG-20200325-WA0051.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200325-WA0051.jpg|image/jpeg|1585123242000|1|1|84276|1
+403|IMG-20200325-WA0049.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200325-WA0049.jpg|image/jpeg|1585123241000|1|1|78092|1
+404|IMG-20200325-WA0050.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200325-WA0050.jpg|image/jpeg|1585123241000|1|1|94948|1
+405|IMG-20200325-WA0048.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200325-WA0048.jpg|image/jpeg|1585123240000|1|1|74040|1
+406|IMG-20200325-WA0046.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200325-WA0046.jpg|image/jpeg|1585123233000|1|1|88895|1
+407|IMG-20200325-WA0045.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200325-WA0045.jpg|image/jpeg|1585123232000|1|1|90903|1
+408|IMG-20200325-WA0044.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20200325-WA0044.jpg|image/jpeg|1585123231000|1|1|54829|1
+409|IMG-20201108-WA0025.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201108-WA0025.jpg|image/jpeg|1604826739000|1|1|183471|1
+410|IMG-20201108-WA0024.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201108-WA0024.jpg|image/jpeg|1604826674000|1|1|179429|1
+411|IMG-20201108-WA0023.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201108-WA0023.jpg|image/jpeg|1604826619000|1|1|173106|1
+412|IMG-20201106-WA0020.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201106-WA0020.jpg|image/jpeg|1604661043000|1|1|103064|1
+413|IMG-20201105-WA0034.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201105-WA0034.jpg|image/jpeg|1604584245000|1|1|46306|1
+414|IMG-20201105-WA0033.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201105-WA0033.jpg|image/jpeg|1604583964000|1|1|43502|1
+415|IMG-20201105-WA0032.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201105-WA0032.jpg|image/jpeg|1604583961000|1|1|44277|1
+416|IMG-20201105-WA0031.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201105-WA0031.jpg|image/jpeg|1604583954000|1|1|49707|1
+417|d25e0527b1ed484480e14c20f3ee97fa.k|/storage/emulated/0/VidMate/download/d25e0527b1ed484480e14c20f3ee97fa.jpg|image/jpeg|1601149303000|1|1|39250|1
+418|9dbdd8c561df4e5dabbfba485475e6fe.k|/storage/emulated/0/VidMate/download/9dbdd8c561df4e5dabbfba485475e6fe.jpg|image/jpeg|1601149302000|1|1|39540|1
+419|903ecaf4e5e64aff967d880d4af202e5.k|/storage/emulated/0/VidMate/download/903ecaf4e5e64aff967d880d4af202e5.jpg|image/jpeg|1588383887000|1|1|127772|1
+420|b39b56ed17274f3fb34c6478dc3289b3.k|/storage/emulated/0/VidMate/download/b39b56ed17274f3fb34c6478dc3289b3.jpg|image/jpeg|1588383863000|1|1|154128|1
+421|IMG_20201016_102227.k|/storage/emulated/0/DCIM/Screenshots/IMG_20201016_102227.jpg|image/jpeg|1602784852581|1|1|370068|1
+422|Screenshot_2020-10-14-17-46-12-43.k|/storage/emulated/0/DCIM/Screenshots/Screenshot_2020-10-14-17-46-12-43.jpg|image/jpeg|1602677772437|1|1|213872|1
+423|Screenshot_2020-10-12-18-55-26-63.k|/storage/emulated/0/DCIM/Screenshots/Screenshot_2020-10-12-18-55-26-63.jpg|image/jpeg|1602509126635|1|1|308393|1
+424|IMG_20201010_193703.k|/storage/emulated/0/DCIM/Screenshots/IMG_20201010_193703.jpg|image/jpeg|1602338672393|1|1|219108|1
+425|IMG_20201008_105300.k|/storage/emulated/0/DCIM/Screenshots/IMG_20201008_105300.jpg|image/jpeg|1602044463315|1|1|347907|1
+426|Screenshot_2020-10-07-00-49-34-25.k|/storage/emulated/0/DCIM/Screenshots/Screenshot_2020-10-07-00-49-34-25.jpg|image/jpeg|1602011974251|1|1|142782|1
+427|IMG_20201008_105328.k|/storage/emulated/0/DCIM/Screenshots/IMG_20201008_105328.jpg|image/jpeg|1600711179085|1|1|231729|1
+428|VID-20201104-WA0013.h|/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20201104-WA0013.mp4|video/mp4|1601577000000|2|1|6344830|2
+429|VID-20201014-WA0006.h|/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20201014-WA0006.mp4|video/mp4|1602527400000|2|1|1109507|2
+430|VID-20201014-WA0003.h|/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20201014-WA0003.mp4|video/mp4|1602527400000|2|1|806584|2
+431|IMG20201123121324.k|/storage/emulated/0/DCIM/Camera/IMG20201123121324.jpg|image/jpeg|1606113804000|1|1|2021341|1
+432|IMG20201123121322.k|/storage/emulated/0/DCIM/Camera/IMG20201123121322.jpg|image/jpeg|1606113802000|1|1|2058121|1
+433|IMG20201123121320.k|/storage/emulated/0/DCIM/Camera/IMG20201123121320.jpg|image/jpeg|1606113800000|1|1|2325727|1
+434|IMG20201123121316.k|/storage/emulated/0/DCIM/Camera/IMG20201123121316.jpg|image/jpeg|1606113796000|1|1|2027373|1
+435|IMG20201123121313.k|/storage/emulated/0/DCIM/Camera/IMG20201123121313.jpg|image/jpeg|1606113793000|1|1|2302567|1
+436|IMG20201123121311.k|/storage/emulated/0/DCIM/Camera/IMG20201123121311.jpg|image/jpeg|1606113791000|1|1|2251768|1
+437|IMG20201119124750.k|/storage/emulated/0/DCIM/Camera/IMG20201119124750.jpg|image/jpeg|1605770270000|1|1|2949015|1
+438|IMG20201119124746.k|/storage/emulated/0/DCIM/Camera/IMG20201119124746.jpg|image/jpeg|1605770266000|1|1|3083229|1
+439|IMG20201119124744.k|/storage/emulated/0/DCIM/Camera/IMG20201119124744.jpg|image/jpeg|1605770264000|1|1|3005261|1
+440|IMG20201118204725.k|/storage/emulated/0/DCIM/Camera/IMG20201118204725.jpg|image/jpeg|1605712645047|1|1|2980500|1
+441|IMG20201117183254.k|/storage/emulated/0/DCIM/Camera/IMG20201117183254.jpg|image/jpeg|1605618174000|1|1|2144422|1
+442|IMG20201116134236.k|/storage/emulated/0/DCIM/Camera/IMG20201116134236.jpg|image/jpeg|1605514358000|1|1|2442960|1
+443|IMG20201116134232.k|/storage/emulated/0/DCIM/Camera/IMG20201116134232.jpg|image/jpeg|1605514354000|1|1|2506768|1
+444|IMG20201116134230.k|/storage/emulated/0/DCIM/Camera/IMG20201116134230.jpg|image/jpeg|1605514350000|1|1|2481947|1
+445|IMG20201116064118.k|/storage/emulated/0/DCIM/Camera/IMG20201116064118.jpg|image/jpeg|1605489078000|1|1|2452576|1
+446|IMG_20201116_064233.k|/storage/emulated/0/DCIM/Camera/IMG_20201116_064233.jpg|image/jpeg|1605489078000|1|1|4425573|1
+451|IMG20201117183257.k|/storage/emulated/0/DCIM/Camera/IMG20201117183257.jpg|image/jpeg|1605618177000|1|1|2180256|1
+452|IMG20201117183247.k|/storage/emulated/0/DCIM/Camera/IMG20201117183247.jpg|image/jpeg|1605618167000|1|1|2056993|1
+456|IMG-20201124-WA0010.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201124-WA0010.jpg|image/jpeg|1606199980000|1|1|277794|1
+457|IMG-20201124-WA0009.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201124-WA0009.jpg|image/jpeg|1606199978000|1|1|334857|1
+458|IMG-20201124-WA0008.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201124-WA0008.jpg|image/jpeg|1606199686000|1|1|225615|1
+459|IMG-20201123-WA0003.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201123-WA0003.jpg|image/jpeg|1606103370000|1|1|159358|1
+461|IMG-20201114-WA0089.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201114-WA0089.jpg|image/jpeg|1605367700000|1|1|98085|1
+462|IMG-20201114-WA0090.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201114-WA0090.jpg|image/jpeg|1605367700000|1|1|99351|1
+463|IMG-20201114-WA0088.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201114-WA0088.jpg|image/jpeg|1605367699000|1|1|95791|1
+464|IMG-20201114-WA0087.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201114-WA0087.jpg|image/jpeg|1605367698000|1|1|96686|1
+465|IMG-20201114-WA0086.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201114-WA0086.jpg|image/jpeg|1605367697000|1|1|121824|1
+466|IMG-20201114-WA0085.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201114-WA0085.jpg|image/jpeg|1605367696000|1|1|108131|1
+467|IMG-20201114-WA0084.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201114-WA0084.jpg|image/jpeg|1605367695000|1|1|98238|1
+470|IMG-20201031-WA0017.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201031-WA0017.jpg|image/jpeg|1604143250000|1|1|96450|1
+471|IMG-20201030-WA0030.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20201030-WA0030.jpg|image/jpeg|1604052130000|1|1|103172|1
+474|VID20210110005157.h|/storage/emulated/0/DCIM/Camera/VID20210110005157.mp4|video/mp4|1610130600000|2|1|22736379|2
+475|VID20210110005141.h|/storage/emulated/0/DCIM/Camera/VID20210110005141.mp4|video/mp4|1610130600000|2|1|3294246|2
+476|VID20210110004256.h|/storage/emulated/0/DCIM/Camera/VID20210110004256.mp4|video/mp4|1610130600000|2|1|10980132|2
+477|VID20210110003942.h|/storage/emulated/0/DCIM/Camera/VID20210110003942.mp4|video/mp4|1610130600000|2|1|16599887|2
+478|VID20210110003828.h|/storage/emulated/0/DCIM/Camera/VID20210110003828.mp4|video/mp4|1610130600000|2|1|41696985|2
+479|VID20210110003751.h|/storage/emulated/0/DCIM/Camera/VID20210110003751.mp4|video/mp4|1610130600000|2|1|9696288|2
+480|IMG20210321220518.k|/storage/emulated/0/DCIM/Camera/IMG20210321220518.jpg|image/jpeg|1616344518000|1|1|1306471|1
+481|IMG20210321220517.k|/storage/emulated/0/DCIM/Camera/IMG20210321220517.jpg|image/jpeg|1616344517000|1|1|1317499|1
+482|VID20210328003633.h|/storage/emulated/0/DCIM/Camera/VID20210328003633.mp4|video/mp4|1616783400000|2|1|2306563|2
+483|VID20210328003235.h|/storage/emulated/0/DCIM/Camera/VID20210328003235.mp4|video/mp4|1616783400000|2|1|45844898|2
+484|VID20210328003057.h|/storage/emulated/0/DCIM/Camera/VID20210328003057.mp4|video/mp4|1616783400000|2|1|2455135|2
+485|IMG20210328002645.k|/storage/emulated/0/DCIM/Camera/IMG20210328002645.jpg|image/jpeg|1616871405342|1|1|1539514|1
+486|VID20210328001924.h|/storage/emulated/0/DCIM/Camera/VID20210328001924.mp4|video/mp4|1616783400000|2|1|20841834|2
+487|IMG20210328001559.k|/storage/emulated/0/DCIM/Camera/IMG20210328001559.jpg|image/jpeg|1616870759866|1|1|1519031|1
+488|VID20210326081656.h|/storage/emulated/0/DCIM/Camera/VID20210326081656.mp4|video/mp4|1616697000000|2|1|25640344|2
+490|VID20210318222048.h|/storage/emulated/0/DCIM/Camera/VID20210318222048.mp4|video/mp4|1616005800000|2|1|16127776|2
+491|VID20210318221413.h|/storage/emulated/0/DCIM/Camera/VID20210318221413.mp4|video/mp4|1616005800000|2|1|32133201|2
+492|IMG-20210331-WA0008.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20210331-WA0008.jpg|image/jpeg|1617156851000|1|1|97480|1
+493|IMG-20210403-WA0025.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20210403-WA0025.jpg|image/jpeg|1617454785000|1|1|155366|1
+494|IMG-20210403-WA0024.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20210403-WA0024.jpg|image/jpeg|1617454251000|1|1|147195|1
+495|IMG20210414105156.k|/storage/emulated/0/DCIM/Camera/IMG20210414105156.jpg|image/jpeg|1618377716000|1|1|1526814|1
+496|IMG20210414105152.k|/storage/emulated/0/DCIM/Camera/IMG20210414105152.jpg|image/jpeg|1618377712000|1|1|1379955|1
+497|IMG20210414105151.k|/storage/emulated/0/DCIM/Camera/IMG20210414105151.jpg|image/jpeg|1618377711000|1|1|1337128|1
+498|IMG20210414105147.k|/storage/emulated/0/DCIM/Camera/IMG20210414105147.jpg|image/jpeg|1618377707000|1|1|1477894|1
+499|IMG20210414105133.k|/storage/emulated/0/DCIM/Camera/IMG20210414105133.jpg|image/jpeg|1618377693000|1|1|1521133|1
+500|IMG20210414102753.k|/storage/emulated/0/DCIM/Camera/IMG20210414102753.jpg|image/jpeg|1618376273000|1|1|1665755|1
+501|IMG-20210414-WA0085.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20210414-WA0085.jpg|image/jpeg|1618383414000|1|1|85876|1
+502|IMG-20210413-WA0055.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20210413-WA0055.jpg|image/jpeg|1618314747000|1|1|113404|1
+503|IMG-20210402-WA0010.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20210402-WA0010.jpg|image/jpeg|1617335219000|1|1|108659|1
+505|IMG20210422073741.k|/storage/emulated/0/DCIM/Camera/IMG20210422073741.jpg|image/jpeg|1619057261468|1|1|1661662|1
+506|IMG-20210419-WA0067.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20210419-WA0067.jpg|image/jpeg|1618815994000|1|1|138588|1
+510|Record_2021-04-17-12-37-39.h|/storage/emulated/0/DCIM/Screenshots/Record_2021-04-17-12-37-39.mp4|video/mp4|1618597800000|2|1|38072305|2
+511|Record_2021-04-15-10-15-34.h|/storage/emulated/0/DCIM/Screenshots/Record_2021-04-15-10-15-34.mp4|video/mp4|1618425000000|2|1|99504380|2
+512|IMG-20210426-WA0018.k|/storage/emulated/0/WhatsApp/Media/WhatsApp Images/IMG-20210426-WA0018.jpg|image/jpeg|1619452055000|1|1|207055|1
+513|VID-20210426-WA0009.h|/storage/emulated/0/WhatsApp/Media/WhatsApp Video/VID-20210426-WA0009.mp4|video/mp4|-2082864600000|2|1|5680814|2
+514|IMG20210429063917.k|/storage/emulated/0/DCIM/Camera/IMG20210429063917.jpg|image/jpeg|1619658557019|1|1|1665857|1
+515|IMG20210429063856.k|/storage/emulated/0/DCIM/Camera/IMG20210429063856.jpg|image/jpeg|1619658536100|1|1|1671981|1
+516|VID-20210621-WA0005.h|/storage/emulated/0/WhatsApp Business/Media/WhatsApp Business Video/VID-20210621-WA0005.mp4|video/mp4|-2082864600000|2|1|3894582|2
+517|VID-20210621-WA0004.h|/storage/emulated/0/WhatsApp Business/Media/WhatsApp Business Video/VID-20210621-WA0004.mp4|video/mp4|-2082864600000|2|1|3897713|2
+518|VID-20210621-WA0003.h|/storage/emulated/0/WhatsApp Business/Media/WhatsApp Business Video/VID-20210621-WA0003.mp4|video/mp4|-2082864600000|2|1|1596641|2
+519|VID-20210621-WA0002.h|/storage/emulated/0/WhatsApp Business/Media/WhatsApp Business Video/VID-20210621-WA0002.mp4|video/mp4|-2082864600000|2|1|1375845|2
+520|VID-20210621-WA0001.h|/storage/emulated/0/WhatsApp Business/Media/WhatsApp Business Video/VID-20210621-WA0001.mp4|video/mp4|-2082864600000|2|1|3894977|2
+521|VID-20210607-WA0010.h|/storage/emulated/0/WhatsApp Business/Media/WhatsApp Business Video/VID-20210607-WA0010.mp4|video/mp4|-2082864600000|2|1|4622717|2
+522|VID-20210607-WA0009.h|/storage/emulated/0/WhatsApp Business/Media/WhatsApp Business Video/VID-20210607-WA0009.mp4|video/mp4|-2082864600000|2|1|3616725|2
+523|VID-20210605-WA0033.h|/storage/emulated/0/WhatsApp Business/Media/WhatsApp Business Video/VID-20210605-WA0033.mp4|video/mp4|-2082864600000|2|1|916962|2
+524|VID-20210507-WA0004.h|/storage/emulated/0/WhatsApp Business/Media/WhatsApp Business Video/VID-20210507-WA0004.mp4|video/mp4|-2082864600000|2|1|1390201|2
+
+
+#Media protected path :L3N0b3JhZ2UvZW11bGF0ZWQvMC9kYXRhLy5HYWxsZXJ5TG9jay9wcm90ZWN0ZWQ=
+
+#Phisical files in protected:
+- .temp (4096)bytes 
+
+
+#Missing File Count:
+0
+
+#Memory Info:
+TOTAL MEMORY : 53MB
+MAX MEMORY : 512MB
+FREE MEMORY : 26MB
+ALLOCATION MEMORY : 27MB
+LSize = 90MB
+Total External MEMORY = 22723MB
+
+
+#Device info:
+  Board: oppo6765_19581
+  Brand: OPPO
+  Device: OP4C7D
+  Display: CPH2015EX_11_A.53
+  Fingerprint: OPPO/CPH2015/OP4C7D:9/PPR1.180610.011/1619517014:user/release-keys
+  Host: ubuntu-142-23
+  ID: PPR1.180610.011
+  Model: CPH2015
+  Product: CPH2015
+  Tags: release-keys
+  Type: user
+  User: root
+  Version Incremental: 1620289711
+  Version Release: 9
+  Version SDK: 28
+  MCC: 404
+  Country: US
