@@ -12,6 +12,6 @@ This project is a web-based Medical Service website that provides information ab
 
 For any development inquiries or suggestions, please contact:
 
-- **Your Name**
-  - Email: hello@gmail.com
-  - Phone: +91 870-998-9982
+- **Mahesh Langote**
+  - Email: maheshlangote777@gmail.com 
+  -[LinkdIn](https://www.linkedin.com/in/mahesh-langote-64702922a/)
