@@ -14,4 +14,4 @@ For any development inquiries or suggestions, please contact:
 
 - **Mahesh Langote**
   - Email: maheshlangote777@gmail.com 
-  -[LinkdIn](https://www.linkedin.com/in/mahesh-langote-64702922a/)
+  - [LinkdIn](https://www.linkedin.com/in/mahesh-langote-64702922a/)
